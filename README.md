@@ -15,6 +15,10 @@ Learn the basics of using Git for managing projects, tracking changes in code, a
   - `git remote add <name> <url>`
 5. Push Changes
   - `git push <name>`
+6. To Create a Branch
+   -`git branch <branchname>`
+7.To change the directory from Branch to master
+   -`git checkout master`
 
 ## Resources:
 - [GitHub Desktop](https://desktop.github.com/)
